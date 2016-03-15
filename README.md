@@ -11,7 +11,7 @@ All around a better way of interacting with the Apereo CAS team.
 
 ## Logging an issue against CAS' issue tracker
 
-1. First, check with CAS' user mailing list to see if the issue has been reported there and if there are any workarounds nor if its not really a bug and can be solved by reading CAS' documentation and appropriate.ly configuring it.
+1. First, check with CAS' user mailing list to see if the issue has been reported there and if there are any workarounds nor if its not really a bug and can be solved by reading CAS' documentation and by appropriately configuring it.
 1. If above step fails to bring any results, check [CAS' issue tracker](https://github.com/Jasig/cas/issues) to see if your issue has already been reported. If so, there may already be a reproduction issue in this repository!
 1. If after searching an issue does not already exist,
    [create a new issue](https://github.com/Jasig/cas/issues/new)
